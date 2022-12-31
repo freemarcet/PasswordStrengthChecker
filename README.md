@@ -10,4 +10,6 @@ Minimum Requirements:
  
 Password strength calculated by [(length + number of integers) * number of special characters]
 Strength scores:
-  
+Score < 15.................Weak Password
+Score between 15 - 24..... Medium Password
+Score >= 24................Strong Password
